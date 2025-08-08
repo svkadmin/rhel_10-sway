@@ -1,4 +1,11 @@
 # rhel_10-sway
-Script to install sway on red hat 10 
 
-Script and sway is in early testing stages ***Be careful :)
+
+Bash script to automize installation process of sway on RedHat 10 (Centos stream 10 - NOT TESTED YET)/ 
+
+Curently build with sway 1.10 and wlroots 18.2
+
+Script is in early stages of development so ***Be careful*** :)
+
+*TUI IS IN THE WORKS to install other packages.
+
