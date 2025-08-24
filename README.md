@@ -1,4 +1,4 @@
-# rhel_10-sway
+# SwayWM RedHat 10 Installer
 
 
 Bash script to automize installation process of sway on RedHat 10 (Centos stream 10 - NOT TESTED YET)/ 
