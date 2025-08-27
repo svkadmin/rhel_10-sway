@@ -67,7 +67,7 @@ print_header "Step 2: Installing Build Dependencies"
 
 # Install build dependencies
 BUILD_DEPS=(
-    git cmake meson ninja-build wayland-devel wayland-protocols-devel
+    git gcc cmake meson ninja-build wayland-devel wayland-protocols-devel
     libinput-devel libxkbcommon-devel xorg-x11-server-Xwayland-devel
     systemd-devel libdrm-devel mesa-libgbm-devel mesa-libEGL-devel
     vulkan-devel libdisplay-info-devel pango-devel cairo-devel
