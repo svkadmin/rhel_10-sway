@@ -74,7 +74,7 @@ BUILD_DEPS=(
     gdk-pixbuf2-devel json-c-devel pcre2-devel scdoc libevdev-devel
     hwdata-devel glslang libseat-devel hwdata xcb-util-renderutil-devel
     xcb-util-wm-devel xcb-util-errors-devel lcms2-devel fish pam-devel
-    libpcap-devel expat-devel
+    libpcap-devel expat-devel bash-completion
 )
 echo "--> Installing build dependencies..."
 dnf install -y "${BUILD_DEPS[@]}"
